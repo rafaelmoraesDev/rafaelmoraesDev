@@ -1,7 +1,7 @@
 ###  Olá 👋, me chamo Rafael Moraes, sou um simples dev num mar de possibilidades! 🎮🚀🤜🤛
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmoraesDev&size_weight=0.5&count_weight=0.5&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmoraesDev&size_weight=0.5&count_weight=0.5&theme=dark)
 
 ## Techs 
 <div style="display: inline_block"><br>
